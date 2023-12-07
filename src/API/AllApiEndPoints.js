@@ -1,7 +1,7 @@
 // !    Base Url
 // export const Base_URL = 'http://192.168.1.37:5000/api';
 // export const Base_URL = 'http://localhost:5000/api';
-export const Base_URL = 'https://react-node-todo-backend-qg7819rme-manthan-patels-projects.vercel.app/api'; // ! Prod
+export const Base_URL = 'https://react-node-todo-backend-manthan-patels-projects.vercel.app/api'; // ! Prod
 // ------------------------------------------------
 
 
